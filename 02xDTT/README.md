@@ -14,6 +14,7 @@ Introduction to:
 ### 🌐 02- Git/Github:
 - [02x00.02-01 | Introduction to Source Code Management with Git and GitHub](https://blog.alouatiq.com/2024/05/introduction-to-source-code-management.html)
   - Version control with Git and GitHub.
+- [02x00.02-02 | Connecting Git with Personal Access Tokens](https://blog.alouatiq.com/2022/06/connecting-git-with-personal-access.html)
 
 ### 🐧 03- Linux Basics:
 - [02x00.03-01 | Basic Unix commands](https://blog.alouatiq.com/2024/04/basic-unix-commands.html)
