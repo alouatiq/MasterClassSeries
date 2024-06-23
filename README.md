@@ -36,7 +36,7 @@ This repository organizes courses into categories for easy navigation and learni
 
 - **ALMC-02x00.Development Tools and Techniques**:
   - 🖥️ Editors:
-    - Introduction to the main editors Emacs Vim and Nano.
+    - Introduction to the main editors Emacs, Vim and Nano.
   - 🌐 Git/Github:
     - Git/Github: Version control with Git and GitHub.
   - 🔧 C Basics:
