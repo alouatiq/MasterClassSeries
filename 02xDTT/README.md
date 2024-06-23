@@ -12,7 +12,7 @@ Introduction to:
   - Dive into Vi, a robust Unix text editor renowned for its efficiency and flexibility, ideal for enhancing productivity in text editing and system administration tasks.
 
 ### 🌐 02- Git/Github:
-- [02x00.02-01 | Introduction to Source Code Management with Git and GitHub](https://blog.alouatiq.com/2024/05/introduction-to-vi.html)
+- [02x00.02-01 | Introduction to Source Code Management with Git and GitHub](https://blog.alouatiq.com/2024/05/introduction-to-source-code-management.html)
   - Version control with Git and GitHub.
 
 ### 🐧 03- Linux Basics:
