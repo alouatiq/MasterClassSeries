@@ -4,11 +4,11 @@ Welcome to the MasterClassSeries repository! This repository hosts a curated col
 
 ## 📚 Categories
 
-- [Programming Fundamentals](./ProgrammingFundamentals/README.md)
-- [Development Tools and Techniques](./DevelopmentTools/README.md)
-- [Fullstack Development](./FullstackDevelopment/README.md)
-- [Frameworks and Tools](./FrameworksTools/README.md)
-- [Career Guidance and IT Skills](./CareerGuidance/README.md)
+- [01.Career Guidance and IT Skills](./CareerGuidance/README.md)
+- [02.Programming Fundamentals](./ProgrammingFundamentals/README.md)
+- [03.Development Tools and Techniques](./DevelopmentTools/README.md)
+- [04.Frameworks and Tools](./FrameworksTools/README.md)
+- [05.Fullstack Development](./FullstackDevelopment/README.md)
 
 ---
 
@@ -18,13 +18,64 @@ This repository organizes courses into categories for easy navigation and learni
 
 ---
 
-## 📖 What You Will Study
+📘 ALMC-l0.Programming Fundamentals:
 
-- **ALMC-00.Career Guidance**: IT job search tips, Skill development
-- **ALMC-01.Development Tools**: UNIX/Linux commands, vi (Vim), Emacs...
-- **ALMC-02.Programming Languages**: C, JavaScript, Python...
-- **ALMC-04.Frameworks**: Fullstack development, No-Code tools...
----
+- **ALMC-01x00.Career Guidance and IT Skills**:
+  - 📱 Social Media.
+  - 🎯 Perfect IT Job for you: Strategies for finding the perfect IT job.
+
+- **ALMC-02x00.Programming Fundamentals**:
+  - 📚 Data Structures (Singly Linked Lists, Arrays):
+    - Data Structures (Singly Linked Lists, Arrays): Fundamental data structures in programming.
+
+- **ALMCS-03x00.Development Tools and Techniques**:
+  - 🖥️ Emacs:
+    - Emacs: Introduction to the Emacs text editor.
+  - 💻 Vim:
+    - Vim: Introduction to the Vim text editor.
+  - 🌐 Git/Github:
+    - Git/Github: Version control with Git and GitHub.
+  - 🔧 C Basics:
+    - Functions, Pointers, Arrays, Bit Manipulation, Variadic Functions, Memory Management, File Redirection, printf, Shell, Compilation, Heap/Stack
+  - 🐧 Linux Basics:
+    - Linux Basics: Permissions, Redirections, Syscalls, Static Libraries
+
+📘 ALMC-l3.Development Tools and Techniques:
+
+- **ALMCS-03x01.Development Tools and Techniques**:
+  - 🐍 Python Basics:
+    - Object-Oriented Programming, Interpreted Languages, Test Driven Development, Error Handling, I/O, Web Scraping
+  - 🔨 C Continued:
+    - Data Structures, Stacks/Queues, Doubly Linked Lists, Hash Tables
+  - 📊 Algorithms:
+    - Sorting, Big O
+  - 📦 Dynamic Libraries
+  - 🐧 Linux:
+    - Processes and Signals, Scripting, Command Line
+  - 🗃️ Databases:
+    - SQL, MySQL
+
+📘 ALMC-l4.Frameworks and Tools:
+- **ALMC-04x00.Frameworks and Tools**:
+  - 🖥️ Systems Engineering (OSI Model, TCP/IP):
+    - Systems Engineering (OSI Model, TCP/IP): Fundamentals of networking.
+  - 📑 Project:
+    - Project: Practical project work.
+
+📘 ALMC-l5.Fullstack Development:
+- **ALMC-05x00.Fullstack Development**:
+  - 🖥️ Systems Engineering/DevOps:
+    - SSH, SSL/TLS, HTTP/S, Webstack Debugging, Servers, Web Servers, Application Servers, Configuration Management, Load Balancers, Postmortems, Networking, Monitoring
+  - 🔍 C Continued:
+    - C Continued: Algorithms - Searching.
+  - 📑 Project Continued:
+    - Project Continued: Continued practical project work.
+  - 💡 Javascript (JQuery):
+    - Javascript (JQuery): Introduction to JavaScript and JQuery.
+  - 🚀 Deployment (APIs, Flask):
+    - Deployment (APIs, Flask): Strategies for deploying applications.
+  - 🐍 Python Continued:
+    - Python Continued: ORMs - SQLAlchemy, Templating - Jinja2, Code Debugging, Regexes
 
 ## ©️ Copyright
 
