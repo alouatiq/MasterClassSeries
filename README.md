@@ -1,6 +1,6 @@
 # MasterClassSeries
 
-Welcome to the MasterClassSeries repository! This repository hosts a curated collection of programming and digitalization courses featured on my blog.
+Welcome to the MasterClassSeries repository! This repository hosts a curated collection of programming and digitalization courses featured on my [![Blogger](https://img.shields.io/badge/blogger-FC4F08?style=for-the-badge&logo=blogger&logoColor=white)]([https://linkedin.com/in/alouatiq]([https://www.alouatiq.com/blog](https://www.alouatiq.com/blog))) & [![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://linkedin.com/in/alouatiq]([https://www.alouatiq.com/blog](https://www.youtube.com/@Digitalization101))).
 
 ## 📚 Categories
 
@@ -87,4 +87,4 @@ This repository organizes courses into categories for easy navigation and learni
 
 ## 📧 Contact
 
-If you have any questions or feedback, feel free to reach out via [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alouatiq)
+If you have any questions or feedback, feel free to reach out via [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alouatiq).
