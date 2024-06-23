@@ -10,11 +10,11 @@ Welcome to the MasterClassSeries repository! This repository hosts a curated col
 
 ## 📚 Serie Categories
 
-- [S00."CGITS". Career Guidance and IT Skills](./CareerGuidance/README.md)
-- [S01."PF".    Programming Fundamentals](./ProgrammingFundamentals/README.md)
-- [S02."DTT".   Development Tools and Techniques](./DevelopmentTools/README.md)
-- [S03."FT".    Frameworks and Tools](./FrameworksTools/README.md)
-- [S04."FSD".   Fullstack Development](./FullstackDevelopment/README.md)
+- [S00."CGITS". Career Guidance and IT Skills](./00xCGITS/README.md)
+- [S01."PF".    Programming Fundamentals](./01xPF/README.md)
+- [S02."DTT".   Development Tools and Techniques](./02xDTT/README.md)
+- [S03."FT".    Frameworks and Tools](./03xFT/README.md)
+- [S04."FSD".   Fullstack Development](./04xFSD/README.md)
 
 ## 🏷️ Format Explanation
 
@@ -30,7 +30,7 @@ Welcome to the MasterClassSeries repository! This repository hosts a curated col
 | **Category** | **x** | **Level** | **.** | **Topic** | **-** | **Article** |
 |--------------|-------|-----------|-------|-----------|-------|-------------|
 | 02           | x     | 00        | .     | 01        | -     | 01          |
-| DTT          | x     | Zero      | .     | Ed.       | -     | Nano        |
+| DTT          | x     | Zero      | .     | Editors   | -     | Nano        |
 
 ---
 
