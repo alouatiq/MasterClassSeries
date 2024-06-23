@@ -3,18 +3,34 @@
 Welcome to the MasterClassSeries repository! This repository hosts a curated collection of programming and digitalization courses featured on my [![Blogger](https://img.shields.io/badge/blogger-FC4F08?style=for-the-badge&logo=blogger&logoColor=white)](https://www.alouatiq.com/blog) & [![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Digitalization101). Explore our content and embark on a journey from 0️⃣ zero to 🦸‍♂️ hero with our comprehensive full-stack developer program.
 
 ## 🎚 Master Class Levels
-- 📘 00.Zero. Programming Fundamentals: (Entry Level)
+- 📘 00.Zero.   Programming Fundamentals: (Entry Level)
 - 📘 01.Novice. Development Tools and Techniques: (Novice Level)
-- 📘 02.Comp. Frameworks and Tools: (Competent Level)
-- 📘 03.Hero. Fullstack Development: (Expert Level)
+- 📘 02.Comp.   Frameworks and Tools: (Competent Level)
+- 📘 03.Hero.   Fullstack Development: (Expert Level)
 
 ## 📚 Serie Categories
 
-- [S00.Career Guidance and IT Skills](./CareerGuidance/README.md)
-- [S01.Programming Fundamentals](./ProgrammingFundamentals/README.md)
-- [S02.Development Tools and Techniques](./DevelopmentTools/README.md)
-- [S03.Frameworks and Tools](./FrameworksTools/README.md)
-- [S04.Fullstack Development](./FullstackDevelopment/README.md)
+- [S00."CGITS". Career Guidance and IT Skills](./CareerGuidance/README.md)
+- [S01."PF".    Programming Fundamentals](./ProgrammingFundamentals/README.md)
+- [S02."DTT".   Development Tools and Techniques](./DevelopmentTools/README.md)
+- [S03."FT".    Frameworks and Tools](./FrameworksTools/README.md)
+- [S04."FSD".   Fullstack Development](./FullstackDevelopment/README.md)
+
+## 🏷️ Format Explanation
+
+### Format: `Category x Level x Topic - Article`
+
+- **Category:** This is the general topic area.
+- **Level:** This is the difficulty or learning stage.
+- **Topic:** The specific subject matter.
+- **Article:** The type of content.
+
+### Example: `Introduction to Nano | 02x00.01-01`
+
+| **Category** | **x** | **Level** | **.** | **Topic** | **-** | **Article** |
+|--------------|-------|-----------|-------|-----------|-------|-------------|
+| 02           | x     | 00        | .     | 01        | -     | 01          |
+| DTT          | x     | Zero      | .     | Ed.       | -     | Nano        |
 
 ---
 
@@ -46,7 +62,7 @@ This repository organizes courses into categories for easy navigation and learni
 
 📘 01.Novice. Development Tools and Techniques: (Novice Level)
 
-- **ALMCS-02x01.Development Tools and Techniques**:
+- **ALMC-02x01.Development Tools and Techniques**:
   - 🐍 Python Basics:
     - Object-Oriented Programming, Interpreted Languages, Test Driven Development, Error Handling, I/O, Web Scraping
   - 🔨 C Continued:
