@@ -34,11 +34,9 @@ This repository organizes courses into categories for easy navigation and learni
   - 📚 Data Structures (Singly Linked Lists, Arrays):
     - Data Structures (Singly Linked Lists, Arrays): Fundamental data structures in programming.
 
-- **ALMCS-02x00.Development Tools and Techniques**:
-  - 🖥️ Emacs:
-    - Emacs: Introduction to the Emacs text editor.
-  - 💻 Vim:
-    - Vim: Introduction to the Vim text editor.
+- **ALMC-02x00.Development Tools and Techniques**:
+  - 🖥️ Editors:
+    - Introduction to the main editors Emacs Vim and Nano.
   - 🌐 Git/Github:
     - Git/Github: Version control with Git and GitHub.
   - 🔧 C Basics:
