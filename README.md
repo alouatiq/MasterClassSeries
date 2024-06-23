@@ -1,6 +1,6 @@
 # MasterClassSeries
 
-Welcome to the MasterClassSeries repository! This repository hosts a curated collection of programming and digitalization courses featured on my [![Blogger](https://img.shields.io/badge/blogger-FC4F08?style=for-the-badge&logo=blogger&logoColor=white)]([https://linkedin.com/in/alouatiq]([https://www.alouatiq.com/blog](https://www.alouatiq.com/blog))) & [![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://linkedin.com/in/alouatiq]([https://www.alouatiq.com/blog](https://www.youtube.com/@Digitalization101))).
+Welcome to the MasterClassSeries repository! This repository hosts a curated collection of programming and digitalization courses featured on my [![Blogger](https://img.shields.io/badge/blogger-FC4F08?style=for-the-badge&logo=blogger&logoColor=white)](https://www.alouatiq.com/blog) & [![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Digitalization101). Explore our content and embark on a journey from 0️⃣ zero to 🦸‍♂️ hero with our comprehensive full-stack developer program.
 
 ## 📚 Categories
 
@@ -18,7 +18,7 @@ This repository organizes courses into categories for easy navigation and learni
 
 ---
 
-📘 ALMC-l0.Programming Fundamentals:
+📘 00.Zero. Programming Fundamentals: (Entry Level)
 
 - **ALMC-01x00.Career Guidance and IT Skills**:
   - 📱 Social Media.
@@ -40,7 +40,7 @@ This repository organizes courses into categories for easy navigation and learni
   - 🐧 Linux Basics:
     - Linux Basics: Permissions, Redirections, Syscalls, Static Libraries
 
-📘 ALMC-l1.Development Tools and Techniques:
+📘 01.Novice. Development Tools and Techniques: (Novice Level)
 
 - **ALMCS-03x01.Development Tools and Techniques**:
   - 🐍 Python Basics:
@@ -55,14 +55,14 @@ This repository organizes courses into categories for easy navigation and learni
   - 🗃️ Databases:
     - SQL, MySQL
 
-📘 ALMC-l2.Frameworks and Tools:
+📘 02.Comp. Frameworks and Tools: (Competent Level)
 - **ALMC-04x00.Frameworks and Tools**:
   - 🖥️ Systems Engineering (OSI Model, TCP/IP):
     - Systems Engineering (OSI Model, TCP/IP): Fundamentals of networking.
   - 📑 Project:
     - Project: Practical project work.
 
-📘 ALMC-l3.Fullstack Development:
+📘 03.Hero. Fullstack Development: (Expert Level)
 - **ALMC-05x00.Fullstack Development**:
   - 🖥️ Systems Engineering/DevOps:
     - SSH, SSL/TLS, HTTP/S, Webstack Debugging, Servers, Web Servers, Application Servers, Configuration Management, Load Balancers, Postmortems, Networking, Monitoring
