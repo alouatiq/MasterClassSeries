@@ -76,14 +76,15 @@ This repository organizes courses into categories for easy navigation and learni
     - SQL, MySQL
 
 🎚 02.Comp. Frameworks and Tools: (Competent Level)
-- **📘 03x00.Frameworks and Tools**:
+- **📘 03x02. Frameworks and Tools**:
+  - 📱 03x02.01- No-Code Tools
   - 🖥️ Systems Engineering (OSI Model, TCP/IP):
     - Systems Engineering (OSI Model, TCP/IP): Fundamentals of networking.
   - 📑 Project:
     - Project: Practical project work.
 
 🎚 03.Hero. Fullstack Development: (Expert Level)
-- **📘 04x00.Fullstack Development**:
+- **📘 04x03.Fullstack Development**:
   - 🖥️ Systems Engineering/DevOps:
     - SSH, SSL/TLS, HTTP/S, Webstack Debugging, Servers, Web Servers, Application Servers, Configuration Management, Load Balancers, Postmortems, Networking, Monitoring
   - 🔍 C Continued:
