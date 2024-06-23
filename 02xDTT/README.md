@@ -19,9 +19,15 @@ Introduction to:
 ### 🐧 03- Linux Basics:
 - [02x00.03-01 | Basic Unix commands](https://blog.alouatiq.com/2024/04/basic-unix-commands.html)
   - Explore essential Unix commands that are fundamental for navigating and managing files and directories in Unix and Unix-like operating systems.
+- [02x00.03-02 | Comprehensive Guide to Setting Up Ubuntu on Your Local Machine](https://blog.alouatiq.com/2024/06/comprehensive-guide-to-setting-up.html)
+  - Learn how to use the uname command in Ubuntu to display basic system information and kernel version, providing an essential tool for checking system details directly from the terminal.
+
+
 
 ### 🔧 C Basics:
 Functions, Pointers, Arrays, Bit Manipulation, Variadic Functions, Memory Management, File Redirection, printf, Shell, Compilation, Heap/Stack.
  
 ## 📘x🎚 02x01. Development Tools and Techniques:
-
+### 🐧 03- Linux:
+- [02x01.03-01 | Advanced Ubuntu Terminal Commands]()
+  - Delve into advanced terminal commands in Ubuntu that go beyond the basics, offering powerful tools for system management and customization.
