@@ -40,7 +40,7 @@ This repository organizes courses into categories for easy navigation and learni
   - 🐧 Linux Basics:
     - Linux Basics: Permissions, Redirections, Syscalls, Static Libraries
 
-📘 ALMC-l3.Development Tools and Techniques:
+📘 ALMC-l1.Development Tools and Techniques:
 
 - **ALMCS-03x01.Development Tools and Techniques**:
   - 🐍 Python Basics:
@@ -55,14 +55,14 @@ This repository organizes courses into categories for easy navigation and learni
   - 🗃️ Databases:
     - SQL, MySQL
 
-📘 ALMC-l4.Frameworks and Tools:
+📘 ALMC-l2.Frameworks and Tools:
 - **ALMC-04x00.Frameworks and Tools**:
   - 🖥️ Systems Engineering (OSI Model, TCP/IP):
     - Systems Engineering (OSI Model, TCP/IP): Fundamentals of networking.
   - 📑 Project:
     - Project: Practical project work.
 
-📘 ALMC-l5.Fullstack Development:
+📘 ALMC-l3.Fullstack Development:
 - **ALMC-05x00.Fullstack Development**:
   - 🖥️ Systems Engineering/DevOps:
     - SSH, SSL/TLS, HTTP/S, Webstack Debugging, Servers, Web Servers, Application Servers, Configuration Management, Load Balancers, Postmortems, Networking, Monitoring
