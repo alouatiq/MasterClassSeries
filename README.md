@@ -2,13 +2,19 @@
 
 Welcome to the MasterClassSeries repository! This repository hosts a curated collection of programming and digitalization courses featured on my [![Blogger](https://img.shields.io/badge/blogger-FC4F08?style=for-the-badge&logo=blogger&logoColor=white)](https://www.alouatiq.com/blog) & [![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Digitalization101). Explore our content and embark on a journey from 0️⃣ zero to 🦸‍♂️ hero with our comprehensive full-stack developer program.
 
-## 📚 Categories
+## 🎚 Master Class Levels
+- 📘 00.Zero. Programming Fundamentals: (Entry Level)
+- 📘 01.Novice. Development Tools and Techniques: (Novice Level)
+- 📘 02.Comp. Frameworks and Tools: (Competent Level)
+- 📘 03.Hero. Fullstack Development: (Expert Level)
 
-- [01.Career Guidance and IT Skills](./CareerGuidance/README.md)
-- [02.Programming Fundamentals](./ProgrammingFundamentals/README.md)
-- [03.Development Tools and Techniques](./DevelopmentTools/README.md)
-- [04.Frameworks and Tools](./FrameworksTools/README.md)
-- [05.Fullstack Development](./FullstackDevelopment/README.md)
+## 📚 Serie Categories
+
+- [S00.Career Guidance and IT Skills](./CareerGuidance/README.md)
+- [S01.Programming Fundamentals](./ProgrammingFundamentals/README.md)
+- [S02.Development Tools and Techniques](./DevelopmentTools/README.md)
+- [S03.Frameworks and Tools](./FrameworksTools/README.md)
+- [S04.Fullstack Development](./FullstackDevelopment/README.md)
 
 ---
 
@@ -20,15 +26,15 @@ This repository organizes courses into categories for easy navigation and learni
 
 📘 00.Zero. Programming Fundamentals: (Entry Level)
 
-- **ALMC-01x00.Career Guidance and IT Skills**:
+- **ALMC-00x00.Career Guidance and IT Skills**:
   - 📱 Social Media.
   - 🎯 Perfect IT Job for you: Strategies for finding the perfect IT job.
 
-- **ALMC-02x00.Programming Fundamentals**:
+- **ALMC-01x00.Programming Fundamentals**:
   - 📚 Data Structures (Singly Linked Lists, Arrays):
     - Data Structures (Singly Linked Lists, Arrays): Fundamental data structures in programming.
 
-- **ALMCS-03x00.Development Tools and Techniques**:
+- **ALMCS-02x00.Development Tools and Techniques**:
   - 🖥️ Emacs:
     - Emacs: Introduction to the Emacs text editor.
   - 💻 Vim:
@@ -42,7 +48,7 @@ This repository organizes courses into categories for easy navigation and learni
 
 📘 01.Novice. Development Tools and Techniques: (Novice Level)
 
-- **ALMCS-03x01.Development Tools and Techniques**:
+- **ALMCS-02x01.Development Tools and Techniques**:
   - 🐍 Python Basics:
     - Object-Oriented Programming, Interpreted Languages, Test Driven Development, Error Handling, I/O, Web Scraping
   - 🔨 C Continued:
@@ -56,14 +62,14 @@ This repository organizes courses into categories for easy navigation and learni
     - SQL, MySQL
 
 📘 02.Comp. Frameworks and Tools: (Competent Level)
-- **ALMC-04x00.Frameworks and Tools**:
+- **ALMC-03x00.Frameworks and Tools**:
   - 🖥️ Systems Engineering (OSI Model, TCP/IP):
     - Systems Engineering (OSI Model, TCP/IP): Fundamentals of networking.
   - 📑 Project:
     - Project: Practical project work.
 
 📘 03.Hero. Fullstack Development: (Expert Level)
-- **ALMC-05x00.Fullstack Development**:
+- **ALMC-04x00.Fullstack Development**:
   - 🖥️ Systems Engineering/DevOps:
     - SSH, SSL/TLS, HTTP/S, Webstack Debugging, Servers, Web Servers, Application Servers, Configuration Management, Load Balancers, Postmortems, Networking, Monitoring
   - 🔍 C Continued:
