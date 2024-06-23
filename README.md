@@ -40,17 +40,17 @@ This repository organizes courses into categories for easy navigation and learni
 
 ---
 
-📘 00.Zero. Programming Fundamentals: (Entry Level)
+🎚 00.Zero. Programming Fundamentals: (Entry Level)
 
-- **ALMC-00x00.Career Guidance and IT Skills**:
+- **📘 00x00.Career Guidance and IT Skills**:
   - 📱 Social Media.
   - 🎯 Perfect IT Job for you: Strategies for finding the perfect IT job.
 
-- **ALMC-01x00.Programming Fundamentals**:
+- **📘 01x00.Programming Fundamentals**:
   - 📚 Data Structures (Singly Linked Lists, Arrays):
     - Data Structures (Singly Linked Lists, Arrays): Fundamental data structures in programming.
 
-- **ALMC-02x00.Development Tools and Techniques**:
+- **📘 02x00.Development Tools and Techniques**:
   - 🖥️ Editors:
     - Introduction to the main editors Emacs, Vim and Nano.
   - 🌐 Git/Github:
@@ -60,9 +60,9 @@ This repository organizes courses into categories for easy navigation and learni
   - 🐧 Linux Basics:
     - Linux Basics: Permissions, Redirections, Syscalls, Static Libraries
 
-📘 01.Novice. Development Tools and Techniques: (Novice Level)
+🎚 01.Novice. Development Tools and Techniques: (Novice Level)
 
-- **ALMC-02x01.Development Tools and Techniques**:
+- **📘 02x01.Development Tools and Techniques**:
   - 🐍 Python Basics:
     - Object-Oriented Programming, Interpreted Languages, Test Driven Development, Error Handling, I/O, Web Scraping
   - 🔨 C Continued:
@@ -75,15 +75,15 @@ This repository organizes courses into categories for easy navigation and learni
   - 🗃️ Databases:
     - SQL, MySQL
 
-📘 02.Comp. Frameworks and Tools: (Competent Level)
-- **ALMC-03x00.Frameworks and Tools**:
+🎚 02.Comp. Frameworks and Tools: (Competent Level)
+- **📘 03x00.Frameworks and Tools**:
   - 🖥️ Systems Engineering (OSI Model, TCP/IP):
     - Systems Engineering (OSI Model, TCP/IP): Fundamentals of networking.
   - 📑 Project:
     - Project: Practical project work.
 
-📘 03.Hero. Fullstack Development: (Expert Level)
-- **ALMC-04x00.Fullstack Development**:
+🎚 03.Hero. Fullstack Development: (Expert Level)
+- **📘 04x00.Fullstack Development**:
   - 🖥️ Systems Engineering/DevOps:
     - SSH, SSL/TLS, HTTP/S, Webstack Debugging, Servers, Web Servers, Application Servers, Configuration Management, Load Balancers, Postmortems, Networking, Monitoring
   - 🔍 C Continued:
