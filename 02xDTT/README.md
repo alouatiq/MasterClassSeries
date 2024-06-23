@@ -3,7 +3,6 @@
 ## 📘x🎚 02x00. Development Tools and Techniques:
 
 ### 🖥️ 03- Editors:
-Introduction to:
 - [02x00.03-01 | Introduction to Nano](https://blog.alouatiq.com/2023/06/introduction-to-nano.html)
   - Explore Nano, a user-friendly Unix text editor known for simplicity and efficiency in editing tasks and scripting.
 - [02x00.03-02 | Introduction to Emacs](https://blog.alouatiq.com/2024/05/introduction-to-emacs.html)
